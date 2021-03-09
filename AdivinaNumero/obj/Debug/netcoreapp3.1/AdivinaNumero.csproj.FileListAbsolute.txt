@@ -1,0 +1,13 @@
+C:\Users\Marjorie\Desktop\AdivinaNumero\bin\Debug\netcoreapp3.1\AdivinaNumero.exe
+C:\Users\Marjorie\Desktop\AdivinaNumero\bin\Debug\netcoreapp3.1\AdivinaNumero.deps.json
+C:\Users\Marjorie\Desktop\AdivinaNumero\bin\Debug\netcoreapp3.1\AdivinaNumero.runtimeconfig.json
+C:\Users\Marjorie\Desktop\AdivinaNumero\bin\Debug\netcoreapp3.1\AdivinaNumero.runtimeconfig.dev.json
+C:\Users\Marjorie\Desktop\AdivinaNumero\bin\Debug\netcoreapp3.1\AdivinaNumero.dll
+C:\Users\Marjorie\Desktop\AdivinaNumero\bin\Debug\netcoreapp3.1\AdivinaNumero.pdb
+C:\Users\Marjorie\Desktop\AdivinaNumero\obj\Debug\netcoreapp3.1\AdivinaNumero.csprojAssemblyReference.cache
+C:\Users\Marjorie\Desktop\AdivinaNumero\obj\Debug\netcoreapp3.1\AdivinaNumero.AssemblyInfoInputs.cache
+C:\Users\Marjorie\Desktop\AdivinaNumero\obj\Debug\netcoreapp3.1\AdivinaNumero.AssemblyInfo.cs
+C:\Users\Marjorie\Desktop\AdivinaNumero\obj\Debug\netcoreapp3.1\AdivinaNumero.csproj.CoreCompileInputs.cache
+C:\Users\Marjorie\Desktop\AdivinaNumero\obj\Debug\netcoreapp3.1\AdivinaNumero.dll
+C:\Users\Marjorie\Desktop\AdivinaNumero\obj\Debug\netcoreapp3.1\AdivinaNumero.pdb
+C:\Users\Marjorie\Desktop\AdivinaNumero\obj\Debug\netcoreapp3.1\AdivinaNumero.genruntimeconfig.cache

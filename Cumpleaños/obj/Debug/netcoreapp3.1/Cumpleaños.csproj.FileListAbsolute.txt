@@ -1,0 +1,13 @@
+C:\Users\Marjorie\Desktop\Cumpleaños\bin\Debug\netcoreapp3.1\Cumpleaños.exe
+C:\Users\Marjorie\Desktop\Cumpleaños\bin\Debug\netcoreapp3.1\Cumpleaños.deps.json
+C:\Users\Marjorie\Desktop\Cumpleaños\bin\Debug\netcoreapp3.1\Cumpleaños.runtimeconfig.json
+C:\Users\Marjorie\Desktop\Cumpleaños\bin\Debug\netcoreapp3.1\Cumpleaños.runtimeconfig.dev.json
+C:\Users\Marjorie\Desktop\Cumpleaños\bin\Debug\netcoreapp3.1\Cumpleaños.dll
+C:\Users\Marjorie\Desktop\Cumpleaños\bin\Debug\netcoreapp3.1\Cumpleaños.pdb
+C:\Users\Marjorie\Desktop\Cumpleaños\obj\Debug\netcoreapp3.1\Cumpleaños.csprojAssemblyReference.cache
+C:\Users\Marjorie\Desktop\Cumpleaños\obj\Debug\netcoreapp3.1\Cumpleaños.AssemblyInfoInputs.cache
+C:\Users\Marjorie\Desktop\Cumpleaños\obj\Debug\netcoreapp3.1\Cumpleaños.AssemblyInfo.cs
+C:\Users\Marjorie\Desktop\Cumpleaños\obj\Debug\netcoreapp3.1\Cumpleaños.csproj.CoreCompileInputs.cache
+C:\Users\Marjorie\Desktop\Cumpleaños\obj\Debug\netcoreapp3.1\Cumpleaños.dll
+C:\Users\Marjorie\Desktop\Cumpleaños\obj\Debug\netcoreapp3.1\Cumpleaños.pdb
+C:\Users\Marjorie\Desktop\Cumpleaños\obj\Debug\netcoreapp3.1\Cumpleaños.genruntimeconfig.cache
